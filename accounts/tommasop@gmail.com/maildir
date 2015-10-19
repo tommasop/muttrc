@@ -1,0 +1,9 @@
+# -*- Mode: muttrc -*-
+
+# Configuration to be used with a Maildir
+set mbox_type=Maildir
+set folder = '~/Mail/tommasop@gmail.com'
+set mbox='~/Mail/tommasop@gmail.com'
+set spoolfile='~/Mail/tommasop@gmail.com/INBOX'
+set record='~/Mail/tommasop@gmail.com/INBOX'
+set postponed='~/Mail/tommasop@gmail.com/Drafts'

@@ -1,0 +1,6 @@
+# -*- Mode: muttrc -*-
+
+# Identifying myself
+set realname = 'Tommaso Patrizi'
+set from = 'tommasop@gmail.com'
+set signature = '~/.mutt/inc/accounts/tommasop@gmail.com/signature'

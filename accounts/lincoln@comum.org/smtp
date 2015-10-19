@@ -1,3 +1,0 @@
-# -*- Mode: muttrc -*-
-set ssl_starttls=yes
-set smtp_url='smtp://lincoln@comum.org@mail.comum.org:587/'

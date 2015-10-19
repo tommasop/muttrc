@@ -1,0 +1,8 @@
+# -*- Mode: muttrc -*-
+
+# Imap stuff
+set imap_user="tommasop@fastmail.fm"
+set folder='imaps://tommasop@fastmail.fm@mail.messagingengine.com/INBOX'
+set spoolfile='imaps://tommasop@fastmail.fm@mail.messagingengine.com/INBOX'
+set record='+'
+set postponed="+Drafts"

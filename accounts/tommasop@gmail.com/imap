@@ -1,0 +1,8 @@
+# -*- Mode: muttrc -*-
+
+# Imap stuff
+set imap_user="tommasop@gmail.com"
+set folder='imaps://tommasop@gmail.com@imap.gmail.com/INBOX'
+set spoolfile='imaps://tommasop@gmail.com@imap.gmail.com/INBOX'
+set record='+'
+set postponed="+Drafts"

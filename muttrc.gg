@@ -1,11 +1,11 @@
 # -*- Mode: Muttrc -*-
-# config for the lincoln@gg.rs.gov.br account
+# config for the tommasop@gmail.com account
 
 source ~/.mutt/inc/base
 source ~/.mutt/inc/colors
 source ~/.mutt/inc/sidebar
 set sidebar_visible = no
 
-source ~/.mutt/accounts/lincoln@gg.rs.gov.br/maildir
-source ~/.mutt/accounts/lincoln@gg.rs.gov.br/ident
-source ~/.mutt/accounts/lincoln@gg.rs.gov.br/smtp
+source ~/.mutt/accounts/tommasop@gmail.com/maildir
+source ~/.mutt/accounts/tommasop@gmail.com/ident
+source ~/.mutt/accounts/tommasop@gmail.com/smtp

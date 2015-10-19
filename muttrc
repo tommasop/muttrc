@@ -1,12 +1,12 @@
 # -*- Mode: Muttrc -*-
-# config for the lincoln@comum.org account
+# config for the tommasop@fastmail.fm account
 
 source ~/.mutt/inc/base
 source ~/.mutt/inc/pgp
 source ~/.mutt/inc/colors
 source ~/.mutt/inc/sidebar
 
-source ~/.mutt/accounts/lincoln@comum.org/imap
-source ~/.mutt/accounts/lincoln@comum.org/ident
-source ~/.mutt/accounts/lincoln@comum.org/smtp
-source ~/.mutt/accounts/lincoln@comum.org/mailboxes
+source ~/.mutt/accounts/tommasop@fastmail.fm/imap
+source ~/.mutt/accounts/tommasop@fastmail.fm/ident
+source ~/.mutt/accounts/tommasop@fastmail.fm/smtp
+source ~/.mutt/accounts/tommasop@fastmail.fm/mailboxes

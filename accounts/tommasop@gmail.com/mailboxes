@@ -1,0 +1,8 @@
+# -*- Mode: muttrc -*-
+mailboxes = =INBOX \
++Archive \
++Drafts \
++Sent \
++Trash \
++Fineco
+
