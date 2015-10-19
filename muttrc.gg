@@ -2,10 +2,12 @@
 # config for the tommasop@gmail.com account
 
 source ~/.mutt/inc/base
+#source ~/.mutt/inc/pgp
 source ~/.mutt/inc/colors
 source ~/.mutt/inc/sidebar
-set sidebar_visible = no
 
 source ~/.mutt/accounts/tommasop@gmail.com/maildir
 source ~/.mutt/accounts/tommasop@gmail.com/ident
 source ~/.mutt/accounts/tommasop@gmail.com/smtp
+source ~/.mutt/accounts/tommasop@gmail.com/mailboxes
+source "gpg -d ~/.mutt/accounts/tommasop@gmail.com/passwords.gpg |"
